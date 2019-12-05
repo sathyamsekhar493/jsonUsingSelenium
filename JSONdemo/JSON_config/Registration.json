@@ -1,0 +1,15 @@
+{
+	"Registration Data": 
+	{
+	
+	"FirstName":"Soma",
+	"LastName":"Sekhar",
+	"Email":"test123@gmail.com",
+	"ConfirmEmail":"test123@gmail.com",
+	"Username":"testjson",
+	"Password":"123456789",
+	"ConfirmPassword":"123456789"
+	
+	
+	}
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"URL": "https://www.crmpro.com/",
+		"username": "tezzpawar",
+		"password": "loser@456",
+		
+		"RegisterUrl": "https://www.crmpro.com/register/",
+		"Edition": "Free Edition",
+		"FirstName": "Soma",
+		"LastName": "Sekhar",
+		"Email": "test123@gmail.com",
+		"confirm_Email": "test123@gmail.com",
+		"Register_Username": "testjson",
+		"Register_Password": "123456789",
+		"Register_confirm_Password": "123456789"
+	}
+]
